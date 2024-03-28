@@ -1,0 +1,14 @@
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\bin\Debug\net8.0\Arrays Bruner Zach.exe
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\bin\Debug\net8.0\Arrays Bruner Zach.deps.json
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\bin\Debug\net8.0\Arrays Bruner Zach.runtimeconfig.json
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\bin\Debug\net8.0\Arrays Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\bin\Debug\net8.0\Arrays Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.AssemblyInfoInputs.cache
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.AssemblyInfo.cs
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.csproj.CoreCompileInputs.cache
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\refint\Arrays Bruner Zach.dll
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.pdb
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\Arrays Bruner Zach.genruntimeconfig.cache
+C:\Users\ZacharyBruner\source\repos\Arrays Bruner Zach\obj\Debug\net8.0\ref\Arrays Bruner Zach.dll
